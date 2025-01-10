@@ -1,7 +1,11 @@
 ---
-title: Welcome to my blog Tech
+title: Welcome to my blog tech
 ---
 
-# This is a Title
-this is a simple text
+#this is a title
+this is a text
 
+##this is a h2 title
+this is a **grossetto***
+
+[this is a link](https://www.prodevopsguy.tech/)
